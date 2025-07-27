@@ -23,7 +23,7 @@ export function Footer() {
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button size="lg" variant="hero" className="group" asChild>
-                <a href="mailto:contact@learnskillmap.me">
+                <a href="mailto:contact@goskillmap.me">
                   <Mail className="w-5 h-5 group-hover:scale-110 transition-transform duration-200" />
                   Contact Us
                 </a>
